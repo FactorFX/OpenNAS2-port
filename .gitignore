@@ -1,0 +1,6 @@
+/.project
+
+/www/app/cache/*
+/www/app/logs/*
+/www/UPGRADE*
+/www/README.md
